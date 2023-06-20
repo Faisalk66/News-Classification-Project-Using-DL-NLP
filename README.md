@@ -11,3 +11,16 @@
 
 **Goal**
 - The Goal of This notebook is to use Machine Learning, Deep Learning and NLP to Detect Fake News
+
+**CONCEPTS INVOLVED**
+- Supervised Learning
+- Text pre-processing
+- Vectorization
+- Scikit learn NLP imports
+- Natural Language Tool Kit (NLTK)
+- ML Classifiers
+
+**Details of Data set**
+- News.csv
+
+
